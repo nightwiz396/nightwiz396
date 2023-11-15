@@ -1,0 +1,4 @@
+- 👀 I’m interested in expanding my knowledge and skills in system administration, particularly in Windows and Linux server administration.
+- 🌱 I’m currently learning the ins and outs of server administration for both Windows and Linux environments, striving to enhance my expertise as a junior system administrator.
+- 💞️ I’m looking to collaborate on projects related to system administration and network management, where I can contribute and continue to develop my skills.
+- 📫 How to reach me: Feel free to contact me through my GitHub profile or via email at [ваш адрес электронной почты], where I am open to discussions, collaboration, and networking opportunities in the field of system administration.
